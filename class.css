@@ -1,0 +1,7 @@
+.hide {position: absolute; left:-5000px}
+.indent{text-indent: 100%; white-space: nowrap; overflow: hidden;}
+ul {list-style: none; padding-left: 0; margin: 0;}
+a {text-decoration: none; color: var(--black-color);}
+h1, h2, p{margin: 0;}
+button{border: 0; outline: 0;}
+button:active, :focus{outline: 0;}
